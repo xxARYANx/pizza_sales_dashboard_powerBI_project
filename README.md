@@ -1,6 +1,7 @@
 # 🚀 Pizza Sales Analysis Dashboard 🍕📊
 
-![Dashboard Animation](https://yourgifurl.com)
+![Dashboard Screenshot 1](https://github.com/xxARYANx/pizza_sales_dashboard_powerBI_project/blob/main/capture_20250222193437650.bmp)
+![Dashboard Screenshot 2](https://github.com/xxARYANx/pizza_sales_dashboard_powerBI_project/blob/main/capture_20250222193855987.bmp)
 
 This **Power BI Dashboard** provides insights into pizza sales for the year **2015**. It highlights key sales metrics, identifies best and worst-selling pizzas, and uncovers trends to support data-driven decision-making for pizza businesses.
 
@@ -12,9 +13,7 @@ This **Power BI Dashboard** provides insights into pizza sales for the year **20
 - [Tools Used](#tools-used)
 - [Dashboard Insights](#dashboard-insights)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -59,20 +58,12 @@ This **Power BI Dashboard** provides insights into pizza sales for the year **20
 ---
 
 
-## 🖼 Screenshots
-
-![Dashboard Screenshot](https://yourimageurl.com)
-
----
-
 ## 🤝 Contributing
 
 Want to contribute? Follow these steps:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
----
 
 
 ## 📩 Contact
